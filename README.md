@@ -1,7 +1,6 @@
 # e-commerce_website
-
-This project is a full stack prject made 
-tech stacks:
+ 
+Tech stacks:
 React, Redux, Axios
 Nodejs
 Firebase
